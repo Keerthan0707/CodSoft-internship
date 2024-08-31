@@ -3,7 +3,7 @@ def simple_chatbot(user_input):
     if "hello" in user_input:
        return "hello! how can I help you?"
     elif"who is you are bestfriend"in user_input:
-       return"its you teju"
+       return"its you sai keerthan reddy"
     elif"tell me a joke"in user_input:
        return" What does a storm cloud wear under his raincoat? Thunderwear."
     elif "how are you" in user_input:
